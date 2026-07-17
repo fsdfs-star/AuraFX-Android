@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Windows Media Player Aero Theme Colors -->
+    <color name="aero_bg_start">#1a5276</color>
+    <color name="aero_bg_end">#041a2f</color>
+    <color name="aero_shell_bg">#ffffff</color>
+    <color name="aero_shell_border">#002244</color>
+    
+    <color name="aero_tab_bg">#222222</color>
+    <color name="aero_tab_text">#cccccc</color>
+    <color name="aero_tab_active_bg">#308cd6</color>
+    <color name="aero_tab_active_text">#ffffff</color>
+    
+    <color name="aero_screen_start">#e6f3fa</color>
+    <color name="aero_screen_end">#c4e4f5</color>
+    
+    <color name="aero_progress_bg">#ffffff</color>
+    <color name="aero_progress_fill">#0c6abf</color>
+    
+    <color name="aero_controls_bg">#111111</color>
+    <color name="aero_play_btn">#1a8ad4</color>
+    
+    <color name="text_dark">#003366</color>
+    <color name="text_light">#ffffff</color>
+</resources>
